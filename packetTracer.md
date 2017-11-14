@@ -1,0 +1,3 @@
+install:
+makepkg -i (duh)
+ 
